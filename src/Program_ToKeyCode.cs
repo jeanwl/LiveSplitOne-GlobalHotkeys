@@ -124,6 +124,8 @@ partial class Program
         { "NoName", VirtualKeyCode.VK_NONAME },
         { "Pa1", VirtualKeyCode.VK_PA1 },
         { "Packet", VirtualKeyCode.VK_PACKET },
+        { "PageDown", VirtualKeyCode.VK_NEXT },
+        { "PageUp", VirtualKeyCode.VK_PRIOR },
         { "Pause", VirtualKeyCode.VK_PAUSE },
         { "Play", VirtualKeyCode.VK_PLAY },
         { "Print", VirtualKeyCode.VK_PRINT },
