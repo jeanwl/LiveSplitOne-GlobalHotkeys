@@ -1,5 +1,5 @@
 # LiveSplit One Global Hotkeys
 
-**Make sure you install [.NET SDK](https://dotnet.microsoft.com/en-us/download) and your Windows is up to date**.
+**This requires [.NET 6 Runtime]([https://dotnet.microsoft.com/en-us/download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.418-windows-x64-installer)https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.418-windows-x64-installer) to work properly.**
 
 ![Preview](/preview.gif)
